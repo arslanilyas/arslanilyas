@@ -1,7 +1,7 @@
 ### Hi there, I'm Arslan Ilyas 👋
 
 ## I'm a Developer and Manager!
-- 🔭 I’m currently working on Swift, Objective-C, React-Native, React, ASP.Net/
+- 🔭 I’m currently working on Swift, Objective-C, React-Native, React, ASP.Net.
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on Swift and React-Native projects.
 - 🥅 This year Goals: Learn project management skills.
