@@ -11,8 +11,8 @@ I'm a seasoned Developer and Project Manager with a strong foundation in both ba
 
 ### Recent Projects
 While much of my work is in private repositories, here are some publicly accessible highlights:
-- **[PhotoGallery](https://github.com/arslanilyas/PhotoGallery)** - A Swift project that demonstrates advanced use of UIKit and image management.
-- **[Basic-Address-Book](https://github.com/arslanilyas/Basic-Address-Book)** - A simple address book app, showcasing form handling and data persistence in SwiftUI.
+- **[PhotoGallery](https://github.com/arslanilyas/PhotoGallery)** - A SwiftUI project that demonstrates the use of SwiftUI and Combine frameworks to display photos from Flickr with reactive data handling.
+- **[Basic-Address-Book](https://github.com/arslanilyas/Basic-Address-Book)** - A simple address book app built with Swift and UIKit, showcasing form handling and data persistence.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
